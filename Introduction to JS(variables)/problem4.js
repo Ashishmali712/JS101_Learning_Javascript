@@ -1,0 +1,10 @@
+console.log("            REPORT CARD          ");
+let a="Ashish Mali";
+let b="Vasantdada High School";
+let c="10th";
+let d="A";
+let e="4119";
+console.log("Student_Name:",a+"\n","School_Name:",b+"\n","Std:",c+"\n","Section:",d+"\n","Roll_No:-",e);
+console.log("Subjects",  "|",  "Max Marks",  "|",  "Marks Obtained",  "|");
+console.log(" Marathi","   ", "100","         ","92"+"\n","English","   ","100","         ","80"+"\n","Hindi","     ","100","         ","85");
+console.log("_________________________________"+"\n","Total-Marks","300","        " ,"257"+"\n"+"\n","Percentage=","85.66","     ","Grade:-","B");
